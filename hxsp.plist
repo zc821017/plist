@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://wap.sjqh.net/zscfzzkh/hxsp/hxspkhdev.ipa</string>
+					<string>http://wap.sjqh.net/zzkh/hxsp/hxspkhdev.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://wap.sjqh.net/zscfzzkh/hxsp/zscfhxsp@2x.png</string>
+					<string>http://wap.sjqh.net/zzkh/hxsp/zscfhxsp@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://wap.sjqh.net/zscfzzkh/hxsp/zscfhxsp.png</string>
+					<string>http://wap.sjqh.net/zzkh/hxsp/zscfhxsp.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
